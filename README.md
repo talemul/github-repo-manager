@@ -20,7 +20,7 @@ This project provides a Bash script to automate the initialization, local commit
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/github-repo-manager.git
+   git clone https://github.com/talemul/github-repo-manager.git
    ```
 
 2. Place your Laravel packages or other projects in the same directory.
